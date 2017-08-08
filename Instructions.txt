@@ -1,0 +1,3 @@
+Please Do The Following When You Opened The Application:
+1. Press The Clear Button A Few Times.
+2. The Respawn Button Will Bring Back The Edit Box When You Divide Any Number By Zero.
